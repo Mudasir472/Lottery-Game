@@ -1,0 +1,27 @@
+.tickets{
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 30px;
+}
+.tickets div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66px;
+    width: 71px;
+}
+.baap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button{
+    background-color: green;
+    color:aliceblue;
+    border: none;
+}
